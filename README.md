@@ -19,25 +19,25 @@ Skład zespołu;
 
 
 Założenia projektowe;
-•	Trzy tryby pracy
+<p>•	Trzy tryby pracy
 -	Zwykły
 -	Z ograniczeniem mocy
 -	Z ograniczeniem prędkości
--•	Oświetlenie drogowe
--•	Prędkościomierz (opcjonalnie)
--•	Płynna regulacja prędkości
--•	System monitorowania i zabezpieczenia baterii
--•	Amperometryka silnika
--•	Kontrola temperatury na poszczególnych podzespołach (opcjonalnie)
+•	Oświetlenie drogowe
+•	Prędkościomierz (opcjonalnie)
+•	Płynna regulacja prędkości
+•	System monitorowania i zabezpieczenia baterii
+•	Amperometryka silnika
+•	Kontrola temperatury na poszczególnych podzespołach (opcjonalnie)</p>
 
 
-<a href="https://miro.com/app/board/uXjVPJqmcqU=/">Miro projekt</a>
+<a href="https://miro.com/app/board/uXjVPJqmcqU=/">Miro projektu</a>
 
 Zestawienie materiałowe:
 
 
-      Poziom 0 (produkt gotowy)       Poziom 1 (części podstawowe/komponenty)  Poziom 2 (części dodatkowe/podzespoły)          
-               Hulajnoga(1szt.)	                                 Koło (2szt.)	               Wyświetlacz OLED(1szt.)
+      Poziom 0 (produkt gotowy)        Poziom 1 (części podstawowe/komponenty)  Poziom 2 (części dodatkowe/podzespoły)          
+               Hulajnoga(1szt.)	                                  Koło (2szt.)	               Wyświetlacz OLED(1szt.)
 	                                                         Kierownica(1szt.)	          Przetwornica napięcia(1szt.)
 	                                                              Rama (1szt.)	                      Lampa LED(1szt.)
 	                                                             Silnik(1szt.)	                      Hallotron(1szt.)
