@@ -57,8 +57,6 @@ Zestawienie materiałowe:
 		                                                                                            Złącza ARK(20szt.)
 
 
-Kosztorys:
-2137zł
 
 Opis projektu:
 Przetwornica napięciowa step down  reguluje napięcie dostarczane na Arduino.  Na  kierownicy umieszczano manetkę gazu, do  której dołączamy wyświetlacz OLED sterowany za pomocą Arduino  , podłączenie za pomocą złączy ARK. Przełączanie manetki gazu, jak również hamulca i hallotronu(umieszczonego w przednim kole hulajnogi) jest realizowane za pomocą przycisków. Aby zapobiec  drganiom styków podczas przełączania zastosowano debouncing, realizowany przez dodatkowy rezystor oraz komendę PULLUP w komunikacji z arduino. Na kierownicy umieszczono również lampę LED, sterowaną Arduino , napięcie dostarczane do lamp jest regulowane przez dwa tranzystory Mosfet. Na wyjściu z baterii umieszczono dzielnik napięcia w celu zredukowania napięcia  z 42V do 5V. Czujnik prędkości zrealizowano za pomocą kontaktronu umieszczono w tylnim kole hulajnogi, który umożliwia zliczanie obrotów koła, informacje dostarczone do Arduino przeliczamy i wyświetlamy na wyświetlaczu OLED jako informacja o prędkości  jazdy.
