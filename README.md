@@ -46,8 +46,8 @@ Założenia projektowe;
 Zestawienie materiałowe:
 
 
-      Poziom 0 (produkt gotowy)       Poziom 1 (części podstawowe/komponenty) Poziom 2 (części dodatkowe/podzespoły)          
-               Hulajnoga(1szt.)	                                Koło (2szt.)	               Wyświetlacz OLED(1szt.)
+      Poziom 0 (produkt gotowy)       Poziom 1 (części podstawowe/komponenty)   Poziom 2 (części dodatkowe/podzespoły)          
+               Hulajnoga(1szt.)	                              Koło (2szt.)	                   Wyświetlacz OLED(1szt.)
 	                                                         Kierownica(1szt.)	          Przetwornica napięcia(1szt.)
 	                                                              Rama (1szt.)	                      Lampa LED(1szt.)
 	                                                             Silnik(1szt.)	                      Hallotron(1szt.)
