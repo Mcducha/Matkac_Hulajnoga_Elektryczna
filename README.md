@@ -1,12 +1,11 @@
 # Matkac_Hulajnoga_Elektryczna
-<head>
-  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-  <meta name="Description" content=" [Projekt Technika Mikroprocesorowa] ">
-  <meta name="Keywords" content=" [,,Matkac-Hulajnoga Elektryczna”] ">
-  <meta name="Author" content=" [Grupa Elektroniki Morskiej sem.5] ">
-  <meta name="Rok akademicki 2022/2023" content="kED2">
- 
-</head> 
+Projekt Technika Mikroprocesorowa
+
+,,Matkac-Hulajnoga Elektryczna”
+
+Grupa Elektroniki Morskiej sem.5
+
+Rok akademicki 2022/2023
 
 Skład zespołu;
 
@@ -32,13 +31,13 @@ Założenia projektowe;
 -•	Kontrola temperatury na poszczególnych podzespołach (opcjonalnie)
 
 
-<a href="https://miro.com/app/board/uXjVPJqmcqU=/">Miro projektu</a>
+<a href="https://miro.com/app/board/uXjVPJqmcqU=/">Miro projekt</a>
 
 Zestawienie materiałowe:
 
 
-      Poziom 0 (produkt gotowy)        Poziom 1 (części podstawowe/komponenty)  Poziom 2 (części dodatkowe/podzespoły)          
-               Hulajnoga(1szt.)	                                  Koło (2szt.)	               Wyświetlacz OLED(1szt.)
+      Poziom 0 (produkt gotowy)       Poziom 1 (części podstawowe/komponenty)  Poziom 2 (części dodatkowe/podzespoły)          
+               Hulajnoga(1szt.)	                                 Koło (2szt.)	               Wyświetlacz OLED(1szt.)
 	                                                         Kierownica(1szt.)	          Przetwornica napięcia(1szt.)
 	                                                              Rama (1szt.)	                      Lampa LED(1szt.)
 	                                                             Silnik(1szt.)	                      Hallotron(1szt.)
