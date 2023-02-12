@@ -19,16 +19,25 @@ Skład zespołu;
 
 
 Założenia projektowe;
-<p>•	Trzy tryby pracy
+•	Trzy tryby pracy
+
 -	Zwykły
+
 -	Z ograniczeniem mocy
+
 -	Z ograniczeniem prędkości
+
 •	Oświetlenie drogowe
+
 •	Prędkościomierz (opcjonalnie)
+
 •	Płynna regulacja prędkości
+
 •	System monitorowania i zabezpieczenia baterii
+
 •	Amperometryka silnika
-•	Kontrola temperatury na poszczególnych podzespołach (opcjonalnie)</p>
+
+•	Kontrola temperatury na poszczególnych podzespołach (opcjonalnie)
 
 
 <a href="https://miro.com/app/board/uXjVPJqmcqU=/">Miro projektu</a>
@@ -56,15 +65,26 @@ Przetwornica napięciowa step down  reguluje napięcie dostarczane na Arduino.  
 Testy przeprowadzone przez Mateusza Aniołkowskiego wykazały skuteczność zastosowanych rozwiązań.
 
 W projekcie zrealizowano:
+
 •	oświetlenie drogowe
+
 •	prędkościomierz
+
 •	płynna regulacja prędkości
+
 Z początkowych założeń nie udało  się zrealizować :
+
 •	Trzy tryby pracy
-o	Zwykły
-o	Z ograniczeniem mocy
-o	Z ograniczeniem prędkości
+
+-	Zwykły
+
+-	Z ograniczeniem mocy
+
+-	Z ograniczeniem prędkości
+
 •	System monitorowania i zabezpieczenia baterii
+
 •	Amperometryka silnika
+
 •	Kontrola temperatury na poszczególnych podzespołach 
 
