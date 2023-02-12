@@ -10,8 +10,11 @@ Rok akademicki 2022/2023
 Skład zespołu;
 
 1.Magdalena Borowiec
+
 2.Mateusz Aniołkowski 
+
 3.Oskar Wawrzyniak    
+
 4.Grzegorz Grzenkowicz  
 5.Dennis Ahmed         
 6.Kacper Wróblewski    
@@ -19,6 +22,7 @@ Skład zespołu;
 
 
 Założenia projektowe;
+
 •	Trzy tryby pracy
 
 -	Zwykły
