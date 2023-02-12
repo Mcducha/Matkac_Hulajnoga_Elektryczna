@@ -1,14 +1,21 @@
 # Matkac_Hulajnoga_Elektryczna
  
 Projekt Technika Mikroprocesorowa
+
+
 ,,Matkac-Hulajnoga Elektryczna”
+
 Grupa Elektroniki Morskiej sem.5
+
 Rok akademicki 2022/2023
 
  
 Skład zespołu;
+
 1.Magdalena Borowiec
+
 2.Mateusz Aniołkowski 
+
 3.Oskar Wawrzyniak    
 4.Grzegorz Grzenkowicz  
 5.Dennis Ahmed         
@@ -30,6 +37,7 @@ o	Z ograniczeniem prędkości
 •	Kontrola temperatury na poszczególnych podzespołach (opcjonalnie)
 
 Zestawienie materiałowe:
+
 
 
 Poziom 0 (produkt gotowy)	Poziom 1 (części podstawowe/komponenty) 	Poziom 2 (części dodatkowe/podzespoły)         
