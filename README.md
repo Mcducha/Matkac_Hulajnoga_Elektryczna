@@ -9,7 +9,7 @@ Rok akademicki 2022/2023
 
 Skład zespołu;
 
-1.Magdalena Borowiec 
+1.Magdalena Borowiec   
 2.Mateusz Aniołkowski  
 3.Oskar Wawrzyniak    
 4.Grzegorz Grzenkowicz  
