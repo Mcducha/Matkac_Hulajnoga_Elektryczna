@@ -51,7 +51,7 @@ Zestawienie materiałowe:
                Hulajnoga(1szt.)	                              Koło (1szt.)	               Wyświetlacz OLED(1szt.)
 	                                                         Kierownica(1szt.)	          Przetwornica napięcia(1szt.)
 	                                                              Rama (1szt.)	                      Lampa LED(1szt.)
-	                                                      Koło silnik(1szt.)	                      Hallotron(1szt.)
+	                                                        Koło silnik(1szt.)	                      Hallotron(1szt.)
 	                                                  Sterownik silnika(1szt.)	                        Arduino(1szt.)
 	                                                            Bateria(1szt.)	                     Płytka PCB(1szt.)
 	                                                       Manetka gazu(1szt.)	                     Kontaktron(1szt.)
