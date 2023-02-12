@@ -65,7 +65,7 @@ Przetwornica napięciowa step down  reguluje napięcie dostarczane na Arduino.  
 
 Testy przeprowadzone przez Mateusza Aniołkowskiego wykazały skuteczność zastosowanych rozwiązań.
 
-<a href="C:\Users\cp\OneDrive\Dokumenty\GitHub\Matkac_Hulajnoga_Elektryczna\Testy">Testy</a>
+<a href="https://github.com/Mcducha/Matkac_Hulajnoga_Elektryczna/tree/main/Testy">Testy</a>
 
 W projekcie zrealizowano:
 
