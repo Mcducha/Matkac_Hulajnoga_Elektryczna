@@ -1,5 +1,13 @@
 # Matkac_Hulajnoga_Elektryczna
- 
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+  <meta name="Description" content=" [Projekt Technika Mikroprocesorowa] ">
+  <meta name="Keywords" content=" [,,Matkac-Hulajnoga Elektryczna”] ">
+  <meta name="Author" content=" [Grupa Elektroniki Morskiej sem.5] ">
+  <meta name="Rok akademicki 2022/2023" content="kED2">
+
+  
+</head> 
 Projekt Technika Mikroprocesorowa
 
 ,,Matkac-Hulajnoga Elektryczna”
@@ -23,9 +31,9 @@ Skład zespołu;
 
 Założenia projektowe;
 •	Trzy tryby pracy
-o	Zwykły
-o	Z ograniczeniem mocy
-o	Z ograniczeniem prędkości
+-	Zwykły
+-	Z ograniczeniem mocy
+-	Z ograniczeniem prędkości
 •	Oświetlenie drogowe
 •	Prędkościomierz (opcjonalnie)
 •	Płynna regulacja prędkości
