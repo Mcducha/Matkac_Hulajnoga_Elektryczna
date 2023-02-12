@@ -2,7 +2,6 @@
  
 Projekt Technika Mikroprocesorowa
 
-
 ,,Matkac-Hulajnoga Elektryczna”
 
 Grupa Elektroniki Morskiej sem.5
@@ -13,9 +12,7 @@ Rok akademicki 2022/2023
 Skład zespołu;
 
 1.Magdalena Borowiec
-
 2.Mateusz Aniołkowski 
-
 3.Oskar Wawrzyniak    
 4.Grzegorz Grzenkowicz  
 5.Dennis Ahmed         
@@ -36,19 +33,21 @@ o	Z ograniczeniem prędkości
 •	Amperometryka silnika
 •	Kontrola temperatury na poszczególnych podzespołach (opcjonalnie)
 
+
+<a href="https://miro.com/app/board/uXjVPJqmcqU=/">Miro projektu</a>
+
 Zestawienie materiałowe:
 
 
+      Poziom 0 (produkt gotowy)        Poziom 1 (części podstawowe/komponenty)  Poziom 2 (części dodatkowe/podzespoły)                                    Hulajnoga(1szt.)	                                 Koło (2szt.)	              Wyświetlacz OLED(1szt.)
+	                                                         Kierownica(1szt.)	          Przetwornica napięcia(1szt.)
+	                                                              Rama (1szt.)	                      Lampa LED(1szt.)
+	                                                             Silnik(1szt.)	                      Hallotron(1szt.)
+	                                                  Sterownik silnika(1szt.)	                        Arduino(1szt.)
+	                                                            Bateria(1szt.)	                     Płytka PCB(1szt.)
+	                                                       Manetka gazu(1szt.)	                     Kontaktron(1szt.)
+		                                                                                            Złącza ARK(20szt.)
 
-Poziom 0 (produkt gotowy)	Poziom 1 (części podstawowe/komponenty) 	Poziom 2 (części dodatkowe/podzespoły)         
-Hulajnoga(1szt.)	                                   Koło (2szt.)	                   Wyświetlacz OLED(1szt.)
-	                                              Kierownica(1szt.)	               rzetwornica napięcia(1szt.)
-	                                                   Rama (1szt.)	                          Lampa LED(1szt.)
-	                                                  Silnik(1szt.)	                          Hallotron(1szt.)
-	                                       Sterownik silnika(1szt.)	                            Arduino(1szt.)
-	                                                 Bateria(1szt.)	                         Płytka PCB(1szt.)
-	                                            Manetka gazu(1szt.)	                         Kontaktron(1szt.)
-		                                                                                  Złącza ARK(20szt.)
 
 Kosztorys:
 2137zł
